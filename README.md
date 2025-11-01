@@ -1,10 +1,10 @@
 # Genpact Assignment
 
 ## Tech Stack
-C#
-Playwright
-NUnit
-Allure Report
+C#. 
+Playwright. 
+NUnit. 
+Allure Report. 
 
 ## Project Structure
 The project is divided into 3 layers:
@@ -38,7 +38,7 @@ The code compiles without warnings.
 ChatGPT was used for some parts (since it was allowed). For example, the ApiClient and parts of the WikipediaClient (API).
 
 ### Allure Report
-The allure report was integrated.
+The allure report was integrated.  
 
 To generate the report:
 Run the tests: dotnet test
