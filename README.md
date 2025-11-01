@@ -44,3 +44,8 @@ To generate the report:
 Run the tests: dotnet test
 Generate the report: allure generate bin/Debug/net9.0/allure-results --clean -o allure-report
 Open the report: allure open allure-report
+
+Examples:
+![Sample Allure Report 1](screenshots/test-report-sample-1.png)
+![Sample Allure Report 2](screenshots/test-report-sample-2.png)
+
