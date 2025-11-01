@@ -1,4 +1,5 @@
 using GenpactAssignment.Infra.Api;
+using NUnit.Allure.Attributes;
 
 namespace GenpactAssignment.Steps;
 

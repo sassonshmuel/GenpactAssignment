@@ -1,0 +1,8 @@
+Normalized: edit, playwright, includes, built, in, debugging, capabilities, such, as, screenshots, captured, on, test, failures, video, recording, of, test, runs, trace, viewer, for, detailed, step, by, step, analysis, debug, mode, with, browser, inspector, console, logs, and, network, request, monitoring
+Unique words: 36
+UI text: debugging, features, playwright, includes, built, in, debugging, capabilities, such, as, screenshots, captured, on, test, failures
+video, recording, of, test, runs
+trace, viewer, for, detailed, step, by, step, analysis
+debug, mode, with, browser, inspector
+console, logs, and, network, request, monitoring
+UI Unique words: 36

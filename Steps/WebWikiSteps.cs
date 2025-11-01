@@ -1,6 +1,6 @@
-using Microsoft.Playwright;
 using GenpactAssignment.Infra.Web.Client;
 using GenpactAssignment.Infra.Web.Pages;
+using NUnit.Allure.Attributes;
 
 namespace GenpactAssignment.Steps;
 

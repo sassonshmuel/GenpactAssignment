@@ -1,10 +1,12 @@
 ﻿using GenpactAssignment.Infra.Web.Client;
 using GenpactAssignment.Steps;
 using NUnit.Allure.Core;
-
+using NUnit.Allure.Attributes;
 namespace GenpactAssignment.Tests;
 
 [AllureNUnit]
+[AllureSuite("Wikipedia Tests")]
+[AllureFeature("Playwright Page Validation")]
 public class Tests
 {
     private PlaywrightClient? client;
