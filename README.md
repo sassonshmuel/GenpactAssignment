@@ -1,10 +1,10 @@
 # Genpact Assignment
 
 ## Tech Stack
-C#. 
-Playwright. 
-NUnit. 
-Allure Report. 
+C#<br>
+Playwright<br>
+NUnit<br>
+Allure Report<br>
 
 ## Project Structure
 The project is divided into 3 layers:
